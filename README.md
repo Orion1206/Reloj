@@ -15,5 +15,5 @@ Aplicación simple que integra un reloj en tiempo real, cronómetro y temporizad
 
 ## Cómo usar
 - Ejecutar el script principal `reloj.sh` ( el script `funciones.sh` es auxiliar ).
-- A la hora de elegir el tiempo para el temporizador utilizar las teclas `w` (+1) , `s` (-1) y `w` (confirmar). 
+- A la hora de elegir el tiempo para el temporizador utilizar las teclas `w` (+1) , `s` (-1) y `t` (confirmar). 
 - El resto de intrucciones estan detalladas en el propio script.
